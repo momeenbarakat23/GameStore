@@ -1,0 +1,47 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "LogIn";
+}
+<div class="Backbg" style="">
+    <h6 class="title" style="color:transparent;">Login in GameStore</h6>
+    <hr />
+    <div class=" contentMidLogin centercontentLogin">
+        <div>
+            <div class="wrapperLogin">
+                <form asp-action="LogIn" method="post">
+                    <h1>LogIn</h1>
+                    <div asp-validation-summary="All" style="color:darkred"></div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="RememberMe" class="control-label"></label>
+                        <input asp-for="RememberMe" class="form-check" style=" width: 60px; />
+                        <span asp-validation-for="RememberMe" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="LogIn" class="btn btn-success form-control" style="margin-left: 110px;width: 300px; color: black; margin-top:20px;" />
+                        <hr />
+                        <a asp-action="Register" class="btn btn-dark form-control">Register</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <br />
+        <div>
+        </div>
+
+
+    </div>
+
+    <div class="last-Text">
+        <h3>copyright © 2048 LUGX Gaming Company. All rights reserved. Design: TemplateMo</h3>
+    </div>
+</div>

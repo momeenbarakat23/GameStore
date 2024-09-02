@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\vsc\\store\\store\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\store.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\03limhbAT0XKk6oWJuIJEXx-2.webp",
+      "PackagePath": "staticwebassets\\Images\\03limhbAT0XKk6oWJuIJEXx-2.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\0_OY9KgTy-s6rLmxZh.jpg",
+      "PackagePath": "staticwebassets\\Images\\0_OY9KgTy-s6rLmxZh.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\0_OY9KgTy-s6rLmxZh_blurred.jpg",
+      "PackagePath": "staticwebassets\\Images\\0_OY9KgTy-s6rLmxZh_blurred.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\1519399.1920x0.jpg",
+      "PackagePath": "staticwebassets\\Images\\1519399.1920x0.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\17princeofpersia-ghtp-mediumSquareAt3X.jpg",
+      "PackagePath": "staticwebassets\\Images\\17princeofpersia-ghtp-mediumSquareAt3X.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\2_POP_LA_2.avif",
+      "PackagePath": "staticwebassets\\Images\\2_POP_LA_2.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\2f7052d05eb7cbf6d3163c8ebe86402b78605f43275732a4.avif",
+      "PackagePath": "staticwebassets\\Images\\2f7052d05eb7cbf6d3163c8ebe86402b78605f43275732a4.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\303451ae-3544-4c35-8bef-6619d255ed87",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\303451ae-3544-4c35-8bef-6619d255ed87.jpg",
+      "PackagePath": "staticwebassets\\Images\\303451ae-3544-4c35-8bef-6619d255ed87.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\54c469aa015a0ba12829e23d133842b80ec4ba4dfe6cbbed.avif",
+      "PackagePath": "staticwebassets\\Images\\54c469aa015a0ba12829e23d133842b80ec4ba4dfe6cbbed.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\803e41fee0edf8f8ed1de518e6eac60ddf30ac485b9a16a2.avif",
+      "PackagePath": "staticwebassets\\Images\\803e41fee0edf8f8ed1de518e6eac60ddf30ac485b9a16a2.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Assassin's_Creed_Shadows_cover.png",
+      "PackagePath": "staticwebassets\\Images\\Assassin's_Creed_Shadows_cover.png"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Assassin_s_Creed_Shadows_cover.png",
+      "PackagePath": "staticwebassets\\Images\\Assassin_s_Creed_Shadows_cover.png"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Black-Myth-Wukong-gameplay-screenshot-2.webp",
+      "PackagePath": "staticwebassets\\Images\\Black-Myth-Wukong-gameplay-screenshot-2.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Burning Shores.jpg",
+      "PackagePath": "staticwebassets\\Images\\Burning Shores.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Combat-Forest-Warriors-_Autumnal-forest_1920x1080.avif",
+      "PackagePath": "staticwebassets\\Images\\Combat-Forest-Warriors-_Autumnal-forest_1920x1080.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Dota 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dota 2.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\EGST_StoreLandscape_2560x1440_2560x1440-d49d4862a0e1a243638d5f95517ed205.jpeg",
+      "PackagePath": "staticwebassets\\Images\\EGST_StoreLandscape_2560x1440_2560x1440-d49d4862a0e1a243638d5f95517ed205.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\EGS_GhostofTsushima_SuckerPunchProductions_S2_1200x1600-e23e02c1d70be7b528dba50860f87d39.jpeg",
+      "PackagePath": "staticwebassets\\Images\\EGS_GhostofTsushima_SuckerPunchProductions_S2_1200x1600-e23e02c1d70be7b528dba50860f87d39.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\EGS_VALORANT_RiotGames_S2_1200x1600-1119fd02065820505106ee9beba83739.jpg",
+      "PackagePath": "staticwebassets\\Images\\EGS_VALORANT_RiotGames_S2_1200x1600-1119fd02065820505106ee9beba83739.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Ghost-of-Tsushima-PC-PSN-account.avif",
+      "PackagePath": "staticwebassets\\Images\\Ghost-of-Tsushima-PC-PSN-account.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Ghost-of-Tsushima_20200712185403-800x450.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ghost-of-Tsushima_20200712185403-800x450.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\God-of-War-Ragnarok-Sequel.webp",
+      "PackagePath": "staticwebassets\\Images\\God-of-War-Ragnarok-Sequel.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Horizon-Forbidden-West-v-1.webp",
+      "PackagePath": "staticwebassets\\Images\\Horizon-Forbidden-West-v-1.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\HorizonForbiddenWest-2-min.jpg",
+      "PackagePath": "staticwebassets\\Images\\HorizonForbiddenWest-2-min.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\League_of_legends_player_count_hero_f9af4cab4f.webp",
+      "PackagePath": "staticwebassets\\Images\\League_of_legends_player_count_hero_f9af4cab4f.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\Swing-bar-scene-_Lower-City_1920x1080.avif",
+      "PackagePath": "staticwebassets\\Images\\Swing-bar-scene-_Lower-City_1920x1080.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ZHbb4vxVbWoAgtC3vVE5wd.jpg",
+      "PackagePath": "staticwebassets\\Images\\ZHbb4vxVbWoAgtC3vVE5wd.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ZSrFeb6XkqKiq2PZKWg20yfe.jpg",
+      "PackagePath": "staticwebassets\\Images\\ZSrFeb6XkqKiq2PZKWg20yfe.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\abstract-background-esports-scifi-gaming-video-game-futuristic-neon-glow-chamber-scene-stand-pedestal-stage-virtual-reality-simulation-and-cyberpunk-ai-generated-photo.jpg",
+      "PackagePath": "staticwebassets\\Images\\abstract-background-esports-scifi-gaming-video-game-futuristic-neon-glow-chamber-scene-stand-pedestal-stage-virtual-reality-simulation-and-cyberpunk-ai-generated-photo.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ac-shadows-art-01-1715701834035.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac-shadows-art-01-1715701834035.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ac-shadows-art-05-1715701834038.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac-shadows-art-05-1715701834038.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ac-shadows-art-06-1715701834039.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac-shadows-art-06-1715701834039.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\acsh-screenshot-4-announce-15052024-6pm-cest-1715700805947.jpg",
+      "PackagePath": "staticwebassets\\Images\\acsh-screenshot-4-announce-15052024-6pm-cest-1715700805947.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\apex.jpg",
+      "PackagePath": "staticwebassets\\Images\\apex.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\assassin-s-creed-shadows-naoe-as-shinobi-stabbing-samurai.avif",
+      "PackagePath": "staticwebassets\\Images\\assassin-s-creed-shadows-naoe-as-shinobi-stabbing-samurai.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\assassins-creed-640x1136-16763.jpg",
+      "PackagePath": "staticwebassets\\Images\\assassins-creed-640x1136-16763.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\assassins-creed-revelations-wallpaper-4.webp",
+      "PackagePath": "staticwebassets\\Images\\assassins-creed-revelations-wallpaper-4.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\assassins-creed-shadows-xbox-games-showcase-gameplay.avif",
+      "PackagePath": "staticwebassets\\Images\\assassins-creed-shadows-xbox-games-showcase-gameplay.avif"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\assassins-creed-shadows-yasuke-samurai-naoe-shinobi-8k-wallpaper-uhdpaper.com-9@3@c.jpg",
+      "PackagePath": "staticwebassets\\Images\\assassins-creed-shadows-yasuke-samurai-naoe-shinobi-8k-wallpaper-uhdpaper.com-9@3@c.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\assassins-creed-shadows-yasuke-samurai-naoe-shinobi-phone-wallpaper-4k-uhdpaper.com-9@3@c.jpg",
+      "PackagePath": "staticwebassets\\Images\\assassins-creed-shadows-yasuke-samurai-naoe-shinobi-phone-wallpaper-4k-uhdpaper.com-9@3@c.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\banner-image.jpg",
+      "PackagePath": "staticwebassets\\Images\\banner-image.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\black-myth-wukong-1-2366x1331-ba68f77d2125.png",
+      "PackagePath": "staticwebassets\\Images\\black-myth-wukong-1-2366x1331-ba68f77d2125.png"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\black-myth-wukong-pc-game-steam-europe-and-us-and-canada-cover.jpg",
+      "PackagePath": "staticwebassets\\Images\\black-myth-wukong-pc-game-steam-europe-and-us-and-canada-cover.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\blackmyth_wukong_screenshot_029.webp",
+      "PackagePath": "staticwebassets\\Images\\blackmyth_wukong_screenshot_029.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\blackmythwukong-review-blogroll-1723762612149.jpg",
+      "PackagePath": "staticwebassets\\Images\\blackmythwukong-review-blogroll-1723762612149.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\blackmythwukong-review-blogroll-1723762612149.jpg.crdownload",
+      "PackagePath": "staticwebassets\\Images\\blackmythwukong-review-blogroll-1723762612149.jpg.crdownload"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\blurred_assassins_creed.jpg",
+      "PackagePath": "staticwebassets\\Images\\blurred_assassins_creed.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\blurred_prince_of_persia.jpeg",
+      "PackagePath": "staticwebassets\\Images\\blurred_prince_of_persia.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\categories-01.jpg",
+      "PackagePath": "staticwebassets\\Images\\categories-01.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\categories-03.jpg",
+      "PackagePath": "staticwebassets\\Images\\categories-03.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\categories-04.jpg",
+      "PackagePath": "staticwebassets\\Images\\categories-04.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\categories-05.jpg",
+      "PackagePath": "staticwebassets\\Images\\categories-05.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\download.jpeg",
+      "PackagePath": "staticwebassets\\Images\\download.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\dq5ntrsnwgp91.jpg",
+      "PackagePath": "staticwebassets\\Images\\dq5ntrsnwgp91.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ghost-of-tsushima (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\ghost-of-tsushima (1).jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ghost-of-tsushima-20200629163251.webp",
+      "PackagePath": "staticwebassets\\Images\\ghost-of-tsushima-20200629163251.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ghost-of-tsushima-revi.jpg",
+      "PackagePath": "staticwebassets\\Images\\ghost-of-tsushima-revi.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ghost-of-tsushima.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ghost-of-tsushima.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\god of war 2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\god of war 2.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\godofwar1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\godofwar1.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\gow3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\gow3.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\hero-image.webp",
+      "PackagePath": "staticwebassets\\Images\\hero-image.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\horizon-forbidden-west-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\horizon-forbidden-west-5.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\imageedit_1_3805587070.jpg",
+      "PackagePath": "staticwebassets\\Images\\imageedit_1_3805587070.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\imageedit_1_6120766524.jpg",
+      "PackagePath": "staticwebassets\\Images\\imageedit_1_6120766524.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\imageedit_1_8177065506.jpg",
+      "PackagePath": "staticwebassets\\Images\\imageedit_1_8177065506.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\images (1).jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\images (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\images (2).jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\images.jpeg",
+      "PackagePath": "staticwebassets\\Images\\images.jpeg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\images.jpg",
+      "PackagePath": "staticwebassets\\Images\\images.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\Images\\maxresdefault.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\online-shopping.png",
+      "PackagePath": "staticwebassets\\Images\\online-shopping.png"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\pngtree-video-store-that-has-much-to-choose-from-picture-image_2652600.jpg",
+      "PackagePath": "staticwebassets\\Images\\pngtree-video-store-that-has-much-to-choose-from-picture-image_2652600.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\prince-of-persia-the-lost-crown-1-1920x1080-20ff7875fcad.jpg",
+      "PackagePath": "staticwebassets\\Images\\prince-of-persia-the-lost-crown-1-1920x1080-20ff7875fcad.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\prince-of-persia-the-lost-crown-deluxe-edition-xbox-one-xbox-series-x-s-deluxe-edition-xbox-series-x-s-xbox-one-game-microsoft-store-cover.jpg",
+      "PackagePath": "staticwebassets\\Images\\prince-of-persia-the-lost-crown-deluxe-edition-xbox-one-xbox-series-x-s-deluxe-edition-xbox-series-x-s-xbox-one-game-microsoft-store-cover.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\screenshot-43200-1723763310167.png",
+      "PackagePath": "staticwebassets\\Images\\screenshot-43200-1723763310167.png"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\Images\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\st.css",
+      "PackagePath": "staticwebassets\\Images\\st.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\top-game-01.jpg",
+      "PackagePath": "staticwebassets\\Images\\top-game-01.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\top-game-02.jpg",
+      "PackagePath": "staticwebassets\\Images\\top-game-02.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\top-game-04.jpg",
+      "PackagePath": "staticwebassets\\Images\\top-game-04.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\top-game-05.jpg",
+      "PackagePath": "staticwebassets\\Images\\top-game-05.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\top-game-06.jpg",
+      "PackagePath": "staticwebassets\\Images\\top-game-06.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\trending-01.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending-01.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\trending-02.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending-02.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\trending-03.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending-03.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\trending-04.jpg",
+      "PackagePath": "staticwebassets\\Images\\trending-04.jpg"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\ubisoft-announces-a-new-prince-of-persia-game.webp",
+      "PackagePath": "staticwebassets\\Images\\ubisoft-announces-a-new-prince-of-persia-game.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\Images\\xwlZX1BT5QlFRHFx22dWeSmk.webp",
+      "PackagePath": "staticwebassets\\Images\\xwlZX1BT5QlFRHFx22dWeSmk.webp"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\css\\viewall.css",
+      "PackagePath": "staticwebassets\\css\\viewall.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\vsc\\store\\store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.store.props",
+      "PackagePath": "build\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.store.props",
+      "PackagePath": "buildMultiTargeting\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.store.props",
+      "PackagePath": "buildTransitive\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

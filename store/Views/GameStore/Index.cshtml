@@ -1,0 +1,130 @@
+﻿@model List<GameStore>
+@{
+    ViewData["Title"] = "Index";
+}
+
+@* @section style {
+    <link rel="stylesheet" href="~/css/viewall.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=New+Amsterdam&family=Noto+Sans:wght@500&family=Roboto:wght@400;900&display=swap" rel="stylesheet">
+} *@
+
+<!DOCTYPE html>
+
+<head>
+   
+</head>
+
+
+    <!--Header-->
+    <!--upper-->
+    <div class="upperpage but textbar position">
+        <div class="TextUpperpage">
+            <span size="6">Welcome To My Store Lugex</span>
+            <h1>Best GameStore For Gamers</h1>
+            <form action="/GameStore/Index" method="get">
+                <input type="text" name="Search" value="@TempData["key"]" style="width:400px" />
+                <input type="submit" name="Search" value="Search" class=" btn-success" style="width:100px;" />
+            </form>
+        </div>
+        <div class="imgupperpage">
+            <img src="~/Images/assassins-creed-shadows-yasuke-samurai-naoe-shinobi-8k-wallpaper-uhdpaper.com-9@3@c.jpg" />
+        </div>
+    </div>
+    <!--trending-->
+    <div class="trending-contener">
+        <span>TRENDING</span>
+        <div class="trending-header">
+            <h1>Trending Games</h1>
+            <a asp-action="ViewAll"><button class="but">VIEW ALL</button></a>
+        </div>
+    </div>
+    <!--cards-->
+    <div class="mycontanerForTranding">
+    <div class="tables">
+        @foreach (var item in Model)
+        {
+        <a asp-action="Details" asp-route-id="@item.Id">
+            <div class="box">
+                <div class="box-handel-img" >
+                    <img src="~/Images/@item.Image" alt="" />
+                    <div class="text-handel box-handel">
+                        <div>
+                            <span>@item.Title</span>
+                            <h3>@item.Name</h3>
+                        </div>
+                        <div class="logo-of-Box">
+                            <a href="@{@item.Name}.html">
+                                <img src="~/Images/online-shopping.png" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+         }
+    </div>
+    </div>
+    <div class="StyleOnlineGames">
+        <!--online Games-->
+        <div class="Online-contener">
+            <span> Online</span>
+            <div class="online-Header but">
+                <h1>OnlineGames</h1>
+                <button style="position:center;">View ALL</button>
+            </div>
+        </div>
+        <div class="onlinegame-contaner">
+            <!--firstgame-->
+            <div class="onlinegame-card">
+                <img src="~/Images/League_of_legends_player_count_hero_f9af4cab4f.webp" alt="">
+                <div class="card-info">
+                    <h3>Online Game</h3>
+                    <div class="card-name"><h2>League of Legends</h2></div>
+                    <a href=""><button>download</button></a>
+                </div>
+            </div>
+            <!--secgame-->
+            <div class="onlinegame-card2">
+                <img src="~/Images/EGS_VALORANT_RiotGames_S2_1200x1600-1119fd02065820505106ee9beba83739.jpg" alt="">
+                <div class="card-info2">
+                    <h3>Online Game</h3>
+                    <div class="card-name2"><h2>Valorant</h2></div>
+                    <a href=""><button>download</button></a>
+                </div>
+            </div>
+            <!--3game-->
+            <div class="onlinegame-card3">
+                <img src="~/Images/apex.jpg" alt="">
+                <div class="card-info3">
+                    <h3>Online Game</h3>
+                    <div class="card-name3"><h2>Apex</h2></div>
+                    <a href=""><button>download</button></a>
+                </div>
+            </div>
+            <!--4game-->
+            <div class="onlinegame-card">
+                <img src="~/Images/Dota 2.jpg" alt="">
+                <div class="card-info4">
+                    <h3>Online Game</h3>
+                    <div class="card-name4"><h2>Dota 2</h2></div>
+                    <a href=""><button>download</button></a>
+                </div>
+            </div>
+            <!--5game-->
+            <div class="onlinegame-card2">
+                <img src="~/Images/categories-01.jpg" alt="">
+                <div class="card-info2">
+                    <h3>Online Game</h3>
+                    <div class="card-name2"><h2>Brawlhalla</h2></div>
+                    <a href=""><button>download</button></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="last-Text" style="border-color:blue; background-color:rgb(2, 2, 31);">
+        <h3>copyright © 2048 LUGX Gaming Company. All rights reserved. Design: TemplateMo</h3>
+    </div>
+

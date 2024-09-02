@@ -1,0 +1,51 @@
+﻿@model store.Models.GameStore
+
+@{
+    ViewData["Title"] = "Details";
+}
+@section style{
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=New+Amsterdam&family=Roboto:wght@400;900&display=swap"
+          rel="stylesheet" />
+    
+}
+<style>
+    .Images-zone::-webkit-scrollbar-thumb {
+        background: @Model.color;
+        border-radius: 6px;
+        border-top: solid rgb(172, 172, 172);
+    }
+</style>
+<div class="background" style="background-image:url(/Images/@Model.BlurImage)">
+    <div class="display-bar">
+        
+    </div>
+    <div class="Game">
+        <div class="Game-Info" style="color:@Model.colorForWord;">
+            <font size="8" >@Model.Name</font>
+            <div class="Text-Game" style="color:@Model.colorForWord;">
+                
+                <h2 style="color:@Model.colorForWord">@Model.Description</h2style>
+            </div>
+            <h1>@Model.Price EGP</h1>
+            <button style="background-color:@Model.color;"><h1>Buy</h1></button>
+        </div>
+        <div class="Game-Img">
+            <img src="~/Images/@Model.Image"alt="" style="width:@{@Model.ReselutionOfImage}px;"/>
+        </div>
+    </div>
+</div>
+<div class="Images-zone" style="border-color:@Model.color;">
+    <div><img src="~/Images/@Model.ImageBar1" alt=""></div>
+    <div><img src="~/Images/@Model.ImageBar2" alt=""></div>
+    <div><img src="~/Images/@Model.ImageBar3" alt=""></div>
+    <div><img src="~/Images/@Model.ImageBar4" alt=""></div>
+    <div><img src="~/Images/@Model.ImageBar5" alt=""></div>
+    <div><img src="~/Images/@Model.ImageBar6" alt=""></div>
+
+
+</div>
+<div class="last-Text"style="border-color:@Model.color;">
+    <h3>copyright © 2048 LUGX Gaming Company. All rights reserved. Design: TemplateMo</h3>
+</div>

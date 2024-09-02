@@ -1,0 +1,57 @@
+﻿@model store.ModelView.RegisterModelView
+@{
+    ViewData["Title"] = "Register";
+}
+<div class="Backbg" style="">
+    <h6 class="title" style="color:transparent;">Register in GameStore</h6>
+    <hr />
+    <div class=" contentMid centercontent">
+        <div>
+            <div class="wrapper">
+                <form asp-action="Register" method="post">
+                    <h1>Register</h1>
+                    <div asp-validation-summary="All" style="color:darkred"></div>
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Address" class="control-label"></label>
+                        <input asp-for="Address" class="form-control" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword" class="control-label"></label>
+                        <input asp-for="ConfirmPassword" class="form-control" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="RegisterAdmin" class="btn btn-success form-control" style="margin-left: 110px;width: 300px; color: black; margin-top:20px;" />
+                        <hr />
+                        <a asp-action="Register" asp-controller="Securty" class="btn btn-dark form-control">Go TO Register Users</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <br />
+        <div>
+        </div>
+
+
+    </div>
+
+    <div class="last-Text">
+        <h3>copyright © 2048 LUGX Gaming Company. All rights reserved. Design: TemplateMo</h3>
+    </div>
+</div>

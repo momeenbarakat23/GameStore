@@ -1,0 +1,679 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+   
+}
+.mycontaner {
+    width:1900px;
+    margin:auto;
+}
+.space-display {
+    padding: 20px 50px 20px 50px;
+    display: flex;
+    width: 1900px;
+    justify-content: space-between;
+    align-content: center;
+    position: fixed;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.color {
+    background-color: rgb(0 0 0 / 42%);
+   
+}
+  .link a {
+    color: #ffffff;
+    padding: 0 20px;
+    text-decoration: none;
+    border-radius: 15px;
+  }
+  /*.link a:hover {
+    background-color: rgb(4, 4, 69);
+  }*/
+  .logo2 {
+    width: 150px;
+  }
+  .buttons input {
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+  }
+  .buttons input:hover {
+    background-color: rgb(101, 141, 201);
+  }
+  .upperpage{
+    background-color:rgb(2, 2, 31); 
+    display: flex;
+    justify-content:space-between ;
+    border-radius:0 0 70px 70px  ;
+    padding-top:100px;
+  
+  }
+  .TextUpperpage{
+    color: #ffffff;
+    padding: 50px;
+  }
+  .imgupperpage img{
+    padding:0 10px 0 100px;
+    width: 700px;
+    border-radius: 150px;
+  }
+  .but button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+
+    
+    
+  }
+  .but button:hover{
+    background-color: rgb(101, 141, 201);
+    
+  }
+  .textbar input{
+    height: 40px;
+    width:300px;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+  }
+.position button {
+    position: static;
+    left: 300px;
+    margin:auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+  
+  .bott{
+    position: absolute;
+    right: 3%;
+  }
+/* trendig*/
+  .trending-contener{
+    padding: 50px;
+  }
+  .trending-contener span{
+    color: rgb(132, 181, 254);
+  }
+  .trending-header button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+
+  }
+  .trending-header button:hover{
+    background-color: rgb(101, 141, 201)
+  }
+  .trending-header h1{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .trending-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0;
+  }
+  
+  .box{
+    width: 500px;
+    background-color: #EEEEEE;
+    padding:0;
+    margin-left: 0;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-content:center;
+  }
+
+.box-handel-img img {
+    width: 445px;
+    height: 322.547px;
+    border-radius: 15px;
+}
+  .box span{
+    padding: 10px;
+    text-align:left;
+  }
+.box h3 {
+    font-size:xx-large;
+}
+  .logo-of-Box img{
+    height: auto;
+    width: 50px;
+    padding: 10%;
+    
+  }
+  .box-handel{
+    display: flex;
+    justify-content: space-between;
+  }
+  .box-handel h3{
+      overflow:hidden;
+  }
+.mycontanerForTranding{
+    width:1900px;
+    padding:0;
+    height:500px;
+    overflow:scroll;
+    overflow-x:hidden;
+    overflow-y:hidden;
+
+    
+}
+.tables {
+    display: flex;
+    align-items: center;
+    width: 1900px;
+    margin: auto;
+    gap: 10px;
+    padding: 0 0 0 30px;
+}
+  .tables a{
+    color: black;
+    text-decoration: none;
+  }
+
+  /*Online games*/
+
+.StyleOnlineGames {
+    background-color: rgb(2, 2, 31);
+
+    margin: 50px;
+    border-radius: 50px;
+    padding: 0 50px 0 50px;
+}
+  .onlinegame-contaner{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-left: 2px;
+    
+  }
+  
+  .Online-contener span{
+    color: rgb(132, 181, 254);
+    margin-top: 10%;
+  }
+  .online-Header h1{
+    color: #ffffff;
+    margin-top: 0;
+  }
+  .online-Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0;
+  }
+  /*game1*/
+  .onlinegame-card{
+    width: 200px;
+    align-items: center;
+  }
+  .onlinegame-card img{
+    width: 100%;
+    border-radius: 100px;
+  }
+.onlinegame-card button {
+    position:center;
+}
+  .card-info h3{
+    color: rgb(132, 181, 254);
+    padding: 0 0;
+    margin-bottom: 0;
+    width: 200px;
+    text-align:center;
+  }
+  .card-name h2{
+    color: #ffffff;
+    padding: 0 5%;
+    margin-top: 0;
+    text-align:center;
+    width: 300px;
+  }
+  .card-info button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    
+align-self:center;
+    border-radius: 10px;
+    border: none;
+  }
+  .card-info button:hover{
+    background-color: rgb(101, 141, 201);
+  }
+ 
+  /*game2*/
+  .onlinegame-card2{
+    width: 200px;
+    align-items: center;
+  }
+  .onlinegame-card2 img{
+    width: 100%;
+    height: 160px;
+    border-radius: 100px;
+  }
+  .card-info2 h3{
+    color: rgb(132, 181, 254);
+    padding: 0 25%;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .card-name2 h2{
+    color: #ffffff;
+    padding: 0 29%;
+    margin-top: 0;
+    width: 400px;
+  }
+  .card-info2 button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    margin-left: 32%;
+    border-radius: 10px;
+    border: none;
+  }
+  .card-info2 button:hover{
+    background-color: rgb(101, 141, 201);
+  }
+  /*game3*/
+  .onlinegame-card3{
+    width: 200px;
+    align-items: center;
+  }
+  .onlinegame-card3 img{
+    width: 100%;
+    height: 160px;
+    border-radius: 100px;
+  }
+  .card-info3 h3{
+    color: rgb(132, 181, 254);
+    padding: 0 25%;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .card-name3 h2{
+    color: #ffffff;
+    padding: 0 29%;
+    margin-top: 0;
+    width: 400px;
+  }
+  .card-info3 button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    margin-left: 32%;
+    border-radius: 10px;
+    border: none;
+  }
+  .card-info3 button:hover{
+    background-color: rgb(101, 141, 201);
+  }
+  /*game3*/
+  .onlinegame-card3{
+    width: 200px;
+    align-items: center;
+  }
+  .onlinegame-card3 img{
+    width: 100%;
+   
+    border-radius: 100px;
+  }
+  .card-info3 h3{
+    color: rgb(132, 181, 254);
+    padding: 0 25%;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .card-name3 h2{
+    color: #ffffff;
+    padding: 0 35%;
+    margin-top: 0;
+    width: 400px;
+  }
+  .card-info3 button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    margin-left: 30%;
+    border-radius: 10px;
+    border: none;
+  }
+  .card-info3 button:hover{
+    background-color: rgb(101, 141, 201);
+  }
+  /*game4*/
+  .onlinegame-card4{
+    width: 200px;
+    align-items: center;
+  }
+  .onlinegame-card4 img{
+    width: 100%;
+    height: 160px;
+    border-radius: 100px;
+  }
+  .card-info4 h3{
+    color: rgb(132, 181, 254);
+    padding: 0 25%;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .card-name4 h2{
+    color: #ffffff;
+    padding: 0 35%;
+    margin-top: 0;
+    width: 400px;
+  }
+  .card-info4 button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    margin-left: 34%;
+    
+    border-radius: 10px;
+    border: none;
+  }
+  .card-info4 button:hover{
+    background-color: rgb(101, 141, 201);
+  }
+  /*game5*/
+  .onlinegame-card5{
+    width: 200px;
+    align-items: center;
+  }
+  .onlinegame-card5 img{
+    width: 100%;
+    height: 160px;
+    border-radius: 100px;
+  }
+  .card-info5 h3{
+    color: rgb(132, 181, 254);
+    padding: 0 25%;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .card-name5 h2{
+    color: #ffffff;
+    padding: 0 29%;
+    margin-top: 0;
+    width: 400px;
+  }
+  .card-info5 button{
+    background-color: rgb(132, 181, 254);
+    padding: 10px;
+    margin-left: 32%;
+    border-radius: 10px;
+    border: none;
+  }
+  .card-info5 button:hover{
+    background-color: rgb(101, 141, 201);
+  }
+  /*details*/
+
+
+
+.background {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    height: 1000px;
+}
+/*bar*/
+.display-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(2, 2, 31);
+    padding: 0;
+    margin: 0;
+    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    width: 100%;
+    height: 2px;
+    filter: blur(none);
+}
+
+
+.logo-bar img {
+    padding-left: 50px;
+    margin-top: 15px;
+}
+
+.Text-Bar {
+    margin: 30px;
+    text-align: center;
+}
+
+    .Text-Bar a {
+        color: white;
+        padding: 0 20px;
+        text-decoration: none;
+        border-radius: 15px;
+    }
+
+        .Text-Bar a:hover {
+            background-color: rgb(201, 101, 101);
+        }
+
+    .Text-Bar button {
+        background-color: rgb(255, 0, 0);
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+    }
+
+        .Text-Bar button:hover {
+            background-color: rgb(201, 101, 101);
+        }
+/*blur*/
+.fillter-blur {
+    filter: blur(10px);
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+/*Game*/
+.Game {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Game-Img img {
+    border: 20px rgba(128, 128, 128, 0.205) solid;
+    width: 450px;
+    margin-top: 100px;
+    margin-right: 20px;
+    padding: 0;
+}
+
+.Game-Info {
+    
+    color: white;
+    padding-left: 50px;
+    padding-top:100px;
+    transform: rotateX('angle');
+}
+
+    .Game-Info button {
+        background-color: rgb(255, 0, 0);
+        margin-top: 20px;
+        padding: 0px;
+        width: 400px;
+        border-radius: 300px;
+        text-align: center;
+    }
+
+        .Game-Info button:hover {
+            background-color: rgb(201, 101, 101);
+        }
+
+    .Game-Info h1 {
+        margin-top: 25px;
+    }
+
+.Text-Game {
+    padding-top: 50;
+}
+/*Images-zone*/
+.Images-zone {
+    height: 300px;
+    margin: 0;
+    background-color: #000000;
+    box-shadow: 10px 50px 10px 100px black;
+    display: flex;
+    gap: 10px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    border-radius: 40px;
+}
+
+    .Images-zone::-webkit-scrollbar {
+        width: 12px;
+    }
+
+    
+
+    .Images-zone img {
+        width: 450px;
+    }
+
+        .Images-zone img:hover {
+            width: 500px;
+        }
+/*last-Text*/
+.last-Text {
+    background-color: rgba(0, 0, 0, 0.377);
+    padding-top: 50px;
+    margin-top: 0;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 70px;
+    width: 100%;
+    height: 100px;
+    border-top: solid rgb(255, 0, 0);
+}
+
+    .last-Text h3 {
+        text-align: center;
+        color: #ffffff;
+    }
+
+/*register*/
+.contentMid {
+    width: 1500px;
+    margin: 200px;
+    box-shadow: 20px 10px 10px 10px rgb(0 0 0 / 42%);
+    background-color: #a9a9a97d;
+    color: white;
+    border-bottom-left-radius:200px;
+    border-top-right-radius:200px;
+}
+.centercontent {
+    width: 500px;
+    margin-top: 105px;
+    margin-left: 700px;
+    border-left-width: 20px;
+    margin-bottom: 160px;
+}
+
+.wrapper {
+ 
+    
+}
+.Backbg {
+    background: url(/Images/assassins-creed-revelations-wallpaper-4.webp) no-repeat;
+    background-size: cover;
+}
+.wrapper h1 {
+    font-size: 36px;
+    text-align: center;
+    color: black;
+}
+.wrapper input{
+    border-radius:20px;
+    background-color:transparent;
+    font-size:20px;
+    width:400px;
+    margin-left:30px;
+    border-color:black;
+}
+.wrapper label{
+    font-size:20px;
+    margin-left:50px;
+    color:black;
+}
+.wrapper a {
+    border-radius: 20px;
+    background-color: transparent;
+    font-size: 20px;
+    margin-left: 110px;
+    width: 300px;
+    color: black;
+}
+.wrapper input::placeholder{
+    color:white;
+}
+
+/*login*/
+.contentMidLogin {
+    width: 1500px;
+    margin: 200px;
+    box-shadow: 20px 10px 10px 10px rgb(0 0 0 / 42%);
+    background-color: #a9a9a97d;
+    color: white;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.centercontentLogin {
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 700px;
+    border-left-width: 20px;
+    margin-bottom: 245px;
+}
+
+.wrapperLogin {
+}
+
+.Backbg {
+    background: url(/Images/assassins-creed-revelations-wallpaper-4.webp) no-repeat;
+    background-size: cover;
+}
+
+.wrapperLogin h1 {
+    font-size: 36px;
+    text-align: center;
+    color: black;
+}
+
+.wrapperLogin input {
+    border-radius: 20px;
+    background-color: transparent;
+    font-size: 20px;
+    width: 400px;
+    margin-left: 30px;
+    border-color: black;
+}
+
+.wrapperLogin label {
+    font-size: 20px;
+    margin-left: 50px;
+    color: black;
+}
+
+.wrapperLogin a {
+    border-radius: 20px;
+    background-color: transparent;
+    font-size: 20px;
+    margin-left: 110px;
+    width: 300px;
+    color: black;
+}
+
+.wrapperLogin input::placeholder {
+    color: white;
+}

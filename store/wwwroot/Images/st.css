@@ -1,0 +1,5 @@
+.image img{
+    width: 50px;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    border-radius: 52%;
+}
